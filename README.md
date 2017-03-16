@@ -1,2 +1,2 @@
 # pollyfont
-1px minimal icon font
+1px minimal iconfont
